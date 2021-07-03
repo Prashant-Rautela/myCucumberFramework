@@ -14,9 +14,4 @@ public class testClass {
 	public void test1() {
 		System.out.println("another method added");
 	}
-	
-	@Test
-	public void stashTesting() {
-		System.out.println("this is done after stashing my home branch");
-	}
 }
