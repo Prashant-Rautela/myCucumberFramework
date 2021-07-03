@@ -14,4 +14,9 @@ public class testClass {
 	public void test1() {
 		System.out.println("another method added");
 	}
+	
+	@Test
+	public void masterbranch() {
+		System.out.println("This code change is only at master branch");
+	}
 }
