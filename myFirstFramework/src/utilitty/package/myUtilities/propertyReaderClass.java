@@ -13,7 +13,7 @@ public class propertyReaderClass {
 		
 		prop = new Properties();
 		try {
-			FileInputStream ip = new FileInputStream("C:\\Users\\welcome\\eclipse\\Cucumber framework\\myFirstFramework\\src\\test\\java\\configurationFile\\config.properties");
+			FileInputStream ip = new FileInputStream("C:\\Users\\raute\\eclipse-workspace\\myCucumberFramework\\myCucumberFramework\\myFirstFramework\\src\\test\\java\\configurationFile\\config.properties");
 			prop.load(ip);
 		} 
 		
