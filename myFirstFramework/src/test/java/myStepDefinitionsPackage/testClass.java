@@ -19,4 +19,9 @@ public class testClass {
 	public void stashTesting() {
 		System.out.println("this is done after stashing my home branch");
 	}
+	
+	@Test
+	public void fetchTesting() {
+		System.out.println("this is fetch command testing");
+	}
 }
